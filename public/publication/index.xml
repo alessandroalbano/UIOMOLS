@@ -5,7 +5,7 @@
     <link>http://localhost:4321/publication/</link>
       <atom:link href="http://localhost:4321/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:4321/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -13,10 +13,50 @@
     </image>
     
     <item>
-      <title>Ranking coherence in Topic Models using Statistically Validated Networks</title>
-      <link>http://localhost:4321/publication/journal-article/</link>
+      <title>Oral Surgical Management of Bone and Soft Tissues in MRONJ Treatment A Decisional Tree</title>
+      <link>http://localhost:4321/publication/journal-article/03/index_3/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/journal-article/03/index_3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A weighted distance-based approach with boosted decision trees for label ranking</title>
+      <link>http://localhost:4321/publication/journal-article/02/index_2/</link>
       <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/journal-article/</guid>
+      <guid>http://localhost:4321/publication/journal-article/02/index_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oral Health Status in Subjects with Amnestic Mild Cognitive Impairment and Alzheimer&#39;s Disease: Data from the Zabút Aging Project</title>
+      <link>http://localhost:4321/publication/journal-article/05/index_5/</link>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/journal-article/05/index_5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oral-Health-Related Quality of Life After Surgical Treatment of Osteonecrosis of the Jaws</title>
+      <link>http://localhost:4321/publication/journal-article/04/index_4/</link>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/journal-article/04/index_4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ranking coherence in Topic Models using Statistically Validated Networks</title>
+      <link>http://localhost:4321/publication/journal-article/01/</link>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/journal-article/01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Design, development and validation of a system for automatic help to medical text understanding</title>
+      <link>http://localhost:4321/publication/journal-article/06/index_6/</link>
+      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/journal-article/06/index_6/</guid>
       <description></description>
     </item>
     
