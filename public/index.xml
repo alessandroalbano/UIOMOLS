@@ -5,12 +5,93 @@
     <link>http://localhost:4321/</link>
       <atom:link href="http://localhost:4321/index.xml" rel="self" type="application/rss+xml" />
     <description>UIOMOLS</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:4321/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>UIOMOLS</title>
       <link>http://localhost:4321/</link>
     </image>
+    
+    <item>
+      <title>Oral Surgical Management of Bone and Soft Tissues in MRONJ Treatment A Decisional Tree</title>
+      <link>http://localhost:4321/publication/journal-article/03/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/journal-article/03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A weighted distance-based approach with boosted decision trees for label ranking</title>
+      <link>http://localhost:4321/publication/journal-article/02/</link>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/journal-article/02/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oral Health Status in Subjects with Amnestic Mild Cognitive Impairment and Alzheimer&#39;s Disease: Data from the Zabút Aging Project</title>
+      <link>http://localhost:4321/publication/journal-article/05/</link>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/journal-article/05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oral-Health-Related Quality of Life After Surgical Treatment of Osteonecrosis of the Jaws</title>
+      <link>http://localhost:4321/publication/journal-article/04/</link>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/journal-article/04/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ranking coherence in Topic Models using Statistically Validated Networks</title>
+      <link>http://localhost:4321/publication/journal-article/01/</link>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/journal-article/01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Design, development and validation of a system for automatic help to medical text understanding</title>
+      <link>http://localhost:4321/publication/journal-article/06/</link>
+      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/journal-article/06/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An example preprint / working paper</title>
+      <link>http://localhost:4321/publication/preprint/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/preprint/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example conference paper</title>
+      <link>http://localhost:4321/publication/conference-paper/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/conference-paper/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
