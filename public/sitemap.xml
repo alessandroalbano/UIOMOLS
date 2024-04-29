@@ -2,8 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:4321/authors/plaia/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/authors/cicciu/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/authors/sciandra/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/authors/oteri/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/authors/albano/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/authors/di-maria/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/authors/lenzitti/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/authors/panzarella/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/authors/lacca/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:4321/</loc>
-    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:4321/privacy/</loc>
@@ -12,6 +39,12 @@
   </url><url>
     <loc>http://localhost:4321/terms/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/authors/admin/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/authors/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:4321/categories/</loc>
