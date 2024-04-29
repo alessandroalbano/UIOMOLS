@@ -2,116 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:4321/post/blog-with-jupyter/</loc>
-    <lastmod>2023-11-04T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4321/post/</loc>
-    <lastmod>2023-11-04T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:4321/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4321/publication-type/2/</loc>
-    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4321/publication/journal-article_3/</loc>
-    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4321/tag/paper/</loc>
-    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4321/publication_types/</loc>
-    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4321/publication/</loc>
-    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4321/tags/</loc>
-    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4321/publication/journal-article_2/</loc>
-    <lastmod>2022-05-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4321/publication/journal-article_5/</loc>
-    <lastmod>2022-05-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4321/publication/journal-article_4/</loc>
-    <lastmod>2022-05-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4321/publication/journal-article/</loc>
-    <lastmod>2022-05-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4321/tag/academic/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4321/categories/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4321/category/demo/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4321/post/getting-started/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4321/tag/%E5%BC%80%E6%BA%90/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4321/category/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4321/post/2020-12-01-r-rmarkdown/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4321/tag/plot/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4321/category/r/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4321/tag/r-markdown/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4321/tag/regression/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4321/publication/journal-article_6/</loc>
-    <lastmod>2020-01-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4321/post/writing-technical-content/</loc>
-    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4321/slides/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4321/slides/example/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:4321/privacy/</loc>
@@ -122,24 +14,13 @@
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/tag/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>http://localhost:4321/categories/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/tag/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>http://localhost:4321/publication_types/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/project/example/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4321/project/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4321/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>http://localhost:4321/tags/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:4321/event/</loc>
