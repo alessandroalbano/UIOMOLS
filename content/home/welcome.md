@@ -19,4 +19,4 @@ advanced:
 
 ---
 
-![My picture](UE_banner.png)
+![My picture](logofirma.png)
