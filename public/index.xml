@@ -5,12 +5,22 @@
     <link>http://localhost:4321/</link>
       <atom:link href="http://localhost:4321/index.xml" rel="self" type="application/rss+xml" />
     <description>UIOMOLS</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:4321/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>UIOMOLS</title>
-      <link>http://localhost:4321/</link>
-    </image>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 03 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title> Longitudinal mediation analysis through generalised linear mixed models: a comparison of maximum-likelihood and Bayesian estimation</title>
+      <link>http://localhost:4321/publication/journal-article/08/</link>
+      <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/journal-article/08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Structural multilevel models for longitudinal mediation analysis: a definition variable approach</title>
+      <link>http://localhost:4321/publication/journal-article/07/</link>
+      <pubDate>Wed, 13 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/journal-article/07/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Oral Surgical Management of Bone and Soft Tissues in MRONJ Treatment A Decisional Tree</title>

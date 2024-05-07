@@ -2,7 +2,7 @@
 superuser: false
 weight: 50
 title: Biagio Lenzitti
-role: Assistant Professor
+role: Confirmed researcher
 user_groups: ["University of Palermo"]
 organizations:
 - name: University of Palermo
@@ -22,7 +22,11 @@ organizations:
 #email: francescoclaudio.stingo@unifi.it
 #highlight_name: true
 interests:
-  - 
+  - Digital health
+  - Intelligent agents
+  - Tailored health communication
+  - Big data
+  - Machine learning
 social:
 - icon: envelope
   icon_pack: fas
@@ -56,6 +60,6 @@ social:
 #  link: https://www.linkedin.com/company/royal-statistical-society/
 ---
 
-Bio:
-Biagio Lenzitti (Palermo’s RU) is an assistant professor computer scientist, with specific expertise in Information retrieval, Semantics and vocabulary in Medicine and Life Sciences.
+
+Biagio Lenzitti (Palermo’s RU) is a confirmed researcher computer scientist, with specific expertise in Information retrieval, Semantics and vocabulary in Medicine and Life Sciences.
 
