@@ -8,14 +8,18 @@ organizations:
 - name: University of Palermo
   url: https://www.unipa.it/persone/docenti/a/alessandro.albano
 interests:
-  - Text Mining
+  - Multilabel text classification
+  - Natural Language Processing (NLP)
+  - Machine Learning
+  - Deep Learning
+  - Neural Networks
 social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:marco.speciale02@unipa.it'
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/alessandro-albano-829471230/
+  link: https://www.linkedin.com/in/marco-speciale-937803a3/
 
 ---
 
