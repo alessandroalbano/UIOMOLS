@@ -12,19 +12,14 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:alessandro.albano@unipa.it'
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=PJpkyD0AAAAJ&hl=it&oi=ao
+  link: 'mailto:marco.speciale02@unipa.it'
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/alessandro-albano-829471230/
-- icon: researchgate
-  icon_pack: fab
-  link: https://www.researchgate.net/profile/Alessandro-Albano
 
 ---
 
-Marco Speciale is a PhD student.
+Marco Speciale is a PhD student in Statistics at the Department of Economics, Business and Statistics at the University of Palermo. He obtained his Master’s degree in Statistics and Data Science from the same university in 2024. His research interests include multilabel text classification, Natural Language Processing (NLP), Machine Learning, Text Mining, Deep Learning and Neural Network.
+
 
 
