@@ -20,7 +20,7 @@ main:
     url: event/
     weight: 50
   - name: Agreement
-    url: '#Agreement'
+    url: Agreement/
     weight: 60
 #  - name: Contact
 #    url: '#contact'
