@@ -19,8 +19,9 @@ main:
   - name: Events
     url: event/
     weight: 50
-#  - name: Teaching
-#    weight: 60
+  - name: Agreement
+    url: '#Agreement'
+    weight: 60
 #  - name: Contact
 #    url: '#contact'
 #    weight: 70
