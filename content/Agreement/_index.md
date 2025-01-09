@@ -5,6 +5,6 @@ The Risk Assessment Document enables access to clinical data and provides a fram
 This agreement stands as a significant milestone in the UIMOLS project. Its significance lies not only in its immediate support of our current objectives but also in its role as a foundational framework for future endeavors. Moreover, this agreement establishes strong rules and standards, laying the groundwork for future collaborations that might use similar arrangements for beneficial outcomes. 
 
 
-Di seguito puoi visualizzare il documento completo:
+The Risk Assessment Document can be visualized at:
 
 <iframe src="/agreement.pdf" width="100%" height="600px" style="border: none;" sandbox="allow-scripts allow-forms"></iframe>
