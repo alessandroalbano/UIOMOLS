@@ -7,5 +7,6 @@ This agreement stands as a significant milestone in the UIMOLS project. Its sign
 
 The Risk Assessment Document can be visualized at:
 
-<iframe src="https://drive.google.com/file/d/1Z4xA4QWVrJLsS_Yr_mQWLBcs-rv41EC0/view?usp=drive_link" width="100%" height="600px" style="border: none;"></iframe>
+<iframe src="/agreement.pdf" width="100%" height="600px" style="border: none;" sandbox="allow-scripts allow-forms"></iframe>
+
 
