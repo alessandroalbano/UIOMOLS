@@ -20,7 +20,3 @@ The feedback collected during both meetings proved to be extremely valuable. The
 This exchange represented a significant step toward optimizing UIOMOLS and aligning its development with real clinical, research, and educational needs.
 
 ---
-
-### 📷 Event Photo
-
-![UIOMOLS Meeting](featured.jpg)
