@@ -22,6 +22,10 @@ main:
   - name: Agreement
     url: Agreement/
     weight: 30
+  - name: References
+    url: /references/
+    weight: 70
+
 #  - name: Contact
 #    url: '#contact'
 #    weight: 70
