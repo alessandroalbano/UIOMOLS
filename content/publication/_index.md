@@ -52,3 +52,15 @@ Springer Nature Switzerland, pp. 34–39
 
 **Abstract**  
 This paper proposes a causal framework for analysing medical texts using the MIMIC-III dataset. By applying Causal Forests, the study identifies linguistic factors that causally influence the probability of specific diagnoses. The results reveal significant causal relationships between clinical terminology and hypothyroidism diagnosis, highlighting the importance of causal inference in medical NLP.
+
+---
+### Ensemble Method for Text Classification in Medicine with Multiple Rare Classes  
+**Alessandro Albano, Mariangela Sciandra, Antonella Plaia**  
+*Book of Short Papers – CLADAG 2023*, p. 17  
+
+**Abstract**  
+This paper presents an ensemble method for text classification in the presence of multiple rare classes within medical record data. The study focuses on classifying clinical notes into multiple disease categories, including rare diseases.
+
+The proposed ensemble approach combines the predictions of three machine learning models — Support Vector Machine (SVM), Random Forest, and Naive Bayes — to improve diagnostic prediction accuracy.
+
+The results show that the ensemble strategy outperforms individual models in terms of classification performance. The methodology was evaluated on a dataset of 50,000 clinical notes containing multiple rare classes, demonstrating the effectiveness of ensemble learning in complex medical text classification tasks.
