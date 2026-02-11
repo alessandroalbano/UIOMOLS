@@ -5,8 +5,6 @@ summary: Scientific publications related to the UIOMOLS project and associated r
 view: compact
 ---
 
-# Project Publications
-
 This section collects peer-reviewed journal articles and conference papers related to the UIOMOLS project and its methodological developments in clinical Natural Language Processing, causal machine learning, and statistical analysis of Electronic Health Records.
 
 ---
