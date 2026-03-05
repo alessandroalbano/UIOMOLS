@@ -27,3 +27,17 @@ By integrating **statistical analysis methods** and **Natural Language Processin
 ➡️ **[Open the UIOMOLS Dashboard](https://uiomols.unipa.it/dashboard)**
 
 You can explore the application by visiting the dashboard link above.
+
+---
+
+## 🎥 Video Tutorial
+
+Below is a short tutorial explaining how to use the UIOMOLS platform and its main modules.
+
+<iframe width="100%" height="500" 
+src="https://www.youtube.com/embed/VIDEO_ID](https://www.youtube.com/watch?v=rxaKVeiBiOE&list=RDrxaKVeiBiOE&start_radio=1" 
+title="UIOMOLS Tutorial" 
+frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen>
+</iframe>
