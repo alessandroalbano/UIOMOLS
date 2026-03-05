@@ -21,10 +21,13 @@ By integrating **statistical analysis methods** and **Natural Language Processin
 
 This short introductory video presents the origins, objectives, and vision of the UIOMOLS project. 
 
-<video width="100%" controls>
-  <source src="https://www.youtube.com/watch?v=7ZKfqGRVHKY">
-  Your browser does not support the video tag.
-</video>
+<iframe width="100%" height="500" 
+src="https://www.youtube.com/watch?v=7ZKfqGRVHKY" 
+title="UIOMOLS Tutorial" 
+frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen>
+</iframe>
 
 ### 🔗 Access the UIOMOLS Dashboard
 
