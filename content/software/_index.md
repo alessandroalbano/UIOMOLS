@@ -6,10 +6,6 @@ banner:
   image: ''
 ---
 
-## UIOMOLS  
-### A Unified Italian Oral Medicine and Orthodontic Language System  
-*A prototype Natural Language Processing application in healthcare*
-
 The UIOMOLS platform was developed within the project **“A Unified Italian Oral Medicine and Orthodontic Language System (UIOMOLS)”**, funded by the Italian **PNRR** program and carried out through the collaboration of three research units from:
 
 - University of Palermo (UNIPA)  
@@ -21,6 +17,14 @@ The main objective of this project is the enhancement and harmonization of clini
 By integrating **statistical analysis methods** and **Natural Language Processing (NLP) techniques**, the platform enables the extraction, organization, and interpretation of heterogeneous clinical data. This supports a deeper understanding of care pathways and contributes to improving the quality of healthcare delivery.
 
 ---
+### 🎥 Introduction to the UIOMOLS Platform
+
+This short introductory video presents the origins, objectives, and vision of the UIOMOLS project. 
+
+<video width="100%" controls>
+  <source src="/videos/uiomols_introduction.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ### 🔗 Access the UIOMOLS Dashboard
 
@@ -29,14 +33,3 @@ By integrating **statistical analysis methods** and **Natural Language Processin
 You can explore the application by visiting the dashboard link above.
 
 ---
-
----
-
-## 🎥 Introduction to the UIOMOLS Platform
-
-This short introductory video presents the origins, objectives, and vision of the UIOMOLS project. 
-
-<video width="100%" controls>
-  <source src="/videos/uiomols_introduction.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
