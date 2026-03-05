@@ -29,10 +29,10 @@ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; pic
 allowfullscreen>
 </iframe>
 
-### 🔗 Access the UIOMOLS Dashboard
+### 🔗 Access the UIOMOLS Platform
 
-➡️ **[Open the UIOMOLS Dashboard](https://uiomols.unipa.it/dashboard)**
+➡️ **[Open the UIOMOLS Platform](https://uiomols.unipa.it/dashboard)**
 
-You can explore the application by visiting the dashboard link above.
+You can explore the application by visiting the link above.
 
 ---
