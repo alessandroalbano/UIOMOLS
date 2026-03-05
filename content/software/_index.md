@@ -36,8 +36,6 @@ You can explore the application by visiting the dashboard link above.
 
 This short introductory video presents the origins, objectives, and vision of the UIOMOLS project. 
 
-Rather than providing technical instructions, the video offers a narrative overview of how the platform was conceived, how it integrates statistical methods and Natural Language Processing techniques, and how it supports diagnosis, research, and education in Oral Medicine and Orthodontics.
-
 <video width="100%" controls>
   <source src="/videos/uiomols_introduction.mp4" type="video/mp4">
   Your browser does not support the video tag.
