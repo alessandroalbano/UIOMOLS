@@ -22,7 +22,7 @@ By integrating **statistical analysis methods** and **Natural Language Processin
 This short introductory video presents the origins, objectives, and vision of the UIOMOLS project. 
 
 <video width="100%" controls>
-  <source src="/videos/uiomols_introduction.mp4" type="video/mp4">
+  <source src="https://www.youtube.com/watch?v=7ZKfqGRVHKY">
   Your browser does not support the video tag.
 </video>
 
